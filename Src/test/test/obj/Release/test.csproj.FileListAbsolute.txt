@@ -1,0 +1,7 @@
+C:\Users\mic\Documents\GitHub\installer-test\Src\test\test\bin\Release\test.exe.config
+C:\Users\mic\Documents\GitHub\installer-test\Src\test\test\bin\Release\test.exe
+C:\Users\mic\Documents\GitHub\installer-test\Src\test\test\bin\Release\test.pdb
+C:\Users\mic\Documents\GitHub\installer-test\Src\test\test\obj\Release\test.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\installer-test\Src\test\test\obj\Release\test.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\installer-test\Src\test\test\obj\Release\test.exe
+C:\Users\mic\Documents\GitHub\installer-test\Src\test\test\obj\Release\test.pdb
