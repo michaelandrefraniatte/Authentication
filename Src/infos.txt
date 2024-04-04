@@ -1,1 +1,0 @@
-Project > Add Reference > COM > Windows Script Host Object Model

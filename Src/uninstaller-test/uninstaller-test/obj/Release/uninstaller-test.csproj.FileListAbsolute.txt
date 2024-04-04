@@ -1,7 +1,0 @@
-C:\Users\mic\Documents\GitHub\installer-test\Src\uninstaller-test\uninstaller-test\bin\Release\uninstaller-test.exe.config
-C:\Users\mic\Documents\GitHub\installer-test\Src\uninstaller-test\uninstaller-test\bin\Release\uninstaller-test.exe
-C:\Users\mic\Documents\GitHub\installer-test\Src\uninstaller-test\uninstaller-test\bin\Release\uninstaller-test.pdb
-C:\Users\mic\Documents\GitHub\installer-test\Src\uninstaller-test\uninstaller-test\obj\Release\uninstaller-test.csprojAssemblyReference.cache
-C:\Users\mic\Documents\GitHub\installer-test\Src\uninstaller-test\uninstaller-test\obj\Release\uninstaller-test.csproj.CoreCompileInputs.cache
-C:\Users\mic\Documents\GitHub\installer-test\Src\uninstaller-test\uninstaller-test\obj\Release\uninstaller-test.exe
-C:\Users\mic\Documents\GitHub\installer-test\Src\uninstaller-test\uninstaller-test\obj\Release\uninstaller-test.pdb
